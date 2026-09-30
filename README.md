@@ -1,4 +1,4 @@
-# 🔬 Prompt Engineering Lab
+# 🔬 Prompt Engineering 
 
 A hands-on exploration of different prompting styles using Google Gemini AI. This project tests 4 different prompting techniques on the same task to compare their effectiveness.
 
